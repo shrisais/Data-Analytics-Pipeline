@@ -1,0 +1,8 @@
+https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
+https://stackoverflow.com/questions/1936466/beautifulsoup-grab-visible-webpage-text
+http://dlab.berkeley.edu/blog/scraping-new-york-times-articles-python-tutorial
+https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
+https://stackoverflow.com/questions/32788322/how-to-add-a-constant-column-in-a-spark-dataframe
+https://stackoverflow.com/questions/44033037/adding-constant-value-column-to-spark-dataframe
+https://stackoverflow.com/questions/14676265/how-to-read-text-file-into-a-list-or-array-with-python
+https://github.com/apache/spark/blob/master/docs/ml-features.md
