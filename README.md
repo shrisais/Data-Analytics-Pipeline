@@ -1,5 +1,5 @@
 # data_analytics_pipeline
-###Environment Details:
+##Environment Details:
 
 Following are the environment chosen for this Lab:
 
