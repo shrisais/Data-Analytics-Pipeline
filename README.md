@@ -1,8 +1,9 @@
 # data_analytics_pipeline
-Environment Details:
+###Environment Details:
+
 Following are the environment chosen for this Lab:
 
-Apache Spark run on Virtual Machine (provided for Lab2 - Hadoop)
+Apache Spark run on Virtual Machine 
 Scripts were written in Python
 Steps to run the program:
 Note: Our file directory for the python script is /spark/lab3/src/script.py and for the data is /spark/lab3/data
@@ -31,3 +32,5 @@ Multi Class Classification
 Logistic Regression : Used pyspark's LogisticRegression API to create a LR model using the training data. The labels of the test data were predicted using the trained LR Model.
 Logistic Regression Classification pipeline:
 alt text
+
+
